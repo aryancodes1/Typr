@@ -2,19 +2,7 @@
 
 # Typr: Your Personal Typing Tutor :keyboard:.
 ## Description 📜 
-> typr is a Python-based application that utilizes the *'rich'* module to provide you with a simple yet satisfying tui when typing, typr is designed to be simple & easy to use; Whenever you want a simple but satisfying typing test tool.
-
-
-[![asciicast](https://asciinema.org/a/617774.svg)](https://asciinema.org/a/617774)
-
-
-## Installation Guide
-
-1. Check Python Version:
-
-Ensure you have Python 3.8 or higher installed. If not, install it from the [official Python website](https://www.python.org/).
-
-### Quick Install
+> typr is a Python-based applicatio
 
 1. Clone typr Repository:
 
